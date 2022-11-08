@@ -8,5 +8,5 @@ inicio
       leia(n)
       soma<-soma+n
    fimpara
-   escreval(" A soma dos valores é: ",soma)
+   escreval(" A soma dos valores Ã©: ",soma)
 fimalgoritmo
